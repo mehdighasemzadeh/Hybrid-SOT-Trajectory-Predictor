@@ -6,9 +6,7 @@ The platform implements robust **Weighted Least Squares (WLS)/RANSAC kinematic p
 
 ## **📺 System Demo**
 
-*(Double-click to edit this link and embed your own recording or repository GIF\!)*
 
-https://github.com/user-attachments/assets/your-demo-video-placeholder
 
 ## **🏛️ System Architecture**
 
