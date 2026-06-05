@@ -2,7 +2,9 @@
 
 
 
-[▶ Watch Demo](demo/demo.gif)
+<p align="center">
+  <img src="demo/demo.gif" alt="Demo" width="900">
+</p>
 
 ---
 
