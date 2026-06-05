@@ -67,5 +67,3 @@ Manual: Click "Manual ROI", then click and drag a bounding box directly on the v
 Automatic: Select a target class (e.g., Car, Person) and click "YOLO Semantic Auto-Init".
 
 Monitor tracking, speed vectors, and auto-recovery processes live on the visual dashboard!
-
-
