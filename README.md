@@ -1,10 +1,12 @@
+# 🎯 Hybrid SOT Trajectory Predictor
+
 # Demo
 
-
-
 <p align="center">
-  <img src="demo/demo.gif" alt="Demo" width="900">
+  <img src="demo/demo.gif" alt="System Demo" width="900">
 </p>
+
+A Real-Time Multithreaded Single Object Tracking Framework with Trajectory Prediction and Deep Re-Identification.
 
 ---
 
