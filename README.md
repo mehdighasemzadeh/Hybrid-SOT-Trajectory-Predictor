@@ -19,7 +19,6 @@ The core runtime is designed around a **Decoupled Producer-Consumer Pipeline** s
 * **Thread 2 (Core SOT Pipeline):** Updates the active tracker (ViT, CSRT, or KCF) and calculates kinematics. When tracking confidence degrades below critical thresholds, it halts local tracking, queries the **Trajectory Predictor** for a localized "Search ROI", and commands the Re-ID system to recover the target.  
 * **Thread 3 (Detection Engine):** An isolated worker thread that wakes up on signal events to execute full-frame YOLO/RT-DETR inference. This is used for semantic auto-initialization.
 
-*Note: Thread-safety is fully guaranteed via a dedicated model re-entrance lock (self.inference\_lock), preventing simultaneous prediction queries from Thread 2 and Thread 3\.*
 
 ## **📈 Key Algorithms & Visualizations**
 
