@@ -1,10 +1,8 @@
 # Demo
 
-https://github.com/user-attachments/assets/YOUR_VIDEO_ID
 
-Or, if GitHub does not automatically render the video:
 
-[▶ Watch Demo](demo/demo1.mp4)
+[▶ Watch Demo](demo/demo.gif)
 
 ---
 
