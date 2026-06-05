@@ -10,6 +10,22 @@ A Real-Time Multithreaded Single Object Tracking Framework with Trajectory Predi
 
 ---
 
+# User Interface
+
+<p align="center">
+  <img src="images/gui.png" width="900">
+</p>
+
+<p align="center">
+  <em>
+  Real-time visualization of tracking confidence, target velocity,
+  trajectory prediction, Re-ID status, and system performance.
+  </em>
+</p>
+
+---
+
+
 # System Architecture
 
 The framework is built around a multithreaded producer-consumer architecture designed for real-time tracking, trajectory prediction, and target recovery.
